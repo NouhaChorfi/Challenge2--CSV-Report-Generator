@@ -1,0 +1,23 @@
+{
+  "name": "challenge2--csv-report-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NouhaChorfi/Challenge2--CSV-Report-Generator.git"
+  },
+  "author": "Nouha Chorfi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NouhaChorfi/Challenge2--CSV-Report-Generator/issues"
+  },
+  "homepage": "https://github.com/NouhaChorfi/Challenge2--CSV-Report-Generator#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
